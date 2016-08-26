@@ -11,11 +11,11 @@ Controls:
 - 'Space' to pause the game
 
 Known issues:
--Floating block after 'popping' a set beneath it -- this is NOT a bug.
+- Floating block after 'popping' a set beneath it -- this is NOT a bug.
 
 Things that could be better:
--Block rotation logic.. would like to have it so that, when you rotate 'into' another block, it will let you and shift the block appropriately (provided there's room.)
--Adding order to menus outside of python's mysterious dictionary ordering.
--Add soundtrack.
+- Block rotation logic.. would like to have it so that, when you rotate 'into' another block, it will let you and shift the block appropriately (provided there's room.)
+- Adding order to menus outside of python's mysterious dictionary ordering.
+- Add soundtrack.
 
 
